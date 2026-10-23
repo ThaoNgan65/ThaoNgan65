@@ -41,20 +41,34 @@ I value continuous learning, analytical thinking, and practical problem-solving.
 <tr>
 <td width="50%" align="center" valign="top">
 
+<br/>
+
 <img src="https://img.shields.io/badge/2026-GOLDEN%20TOAD%20AWARD-C9A227?style=for-the-badge" alt="Golden Toad Award" />
 
-<p><strong>Golden Toad Award</strong><br/>
-Engineering and Technology Division<br/>
-Summer 2026 · FPT University</p>
+<h2>Golden Toad Award</h2>
+
+<strong>Engineering and Technology Division</strong>
+
+Summer 2026 · FPT University
+
+<br/><br/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
+<br/>
+
 <img src="https://img.shields.io/badge/2026-FIRST%20PRIZE-1D4ED8?style=for-the-badge" alt="First Prize" />
 
-<p><strong>First Prize — Southern Regional Round</strong><br/>
-National Youth Innovation Competition in Artificial Intelligence<br/>
-2026</p>
+<h2>First Prize</h2>
+
+<strong>Southern Regional Round</strong>
+
+National Youth Innovation Competition in Artificial Intelligence
+
+2026
+
+<br/><br/>
 
 </td>
 </tr>
