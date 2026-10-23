@@ -46,9 +46,10 @@ I value continuous learning, analytical thinking, and practical problem-solving.
 
 <br/><br/>
 
-### Golden Toad Award
-
-**Engineering and Technology Division**
+<h3 align="center">Golden Toad Award</h3>
+<p align="center">
+  <strong>Engineering and Technology Division</strong>
+</p>
 
 Summer 2026 · FPT University
 
@@ -61,9 +62,10 @@ Recognized for academic achievement in the Engineering and Technology division.
 
 <br/><br/>
 
-### First Prize — Southern Regional Round
-
-**National Youth Innovation Competition in Artificial Intelligence**
+<h3 align="center">First Prize — Southern Regional Round</h3>
+<p align="center">
+  <strong>National Youth Innovation Competition in Artificial Intelligence</strong>
+</p>
 
 2026 · Southern Regional Round
 
