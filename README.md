@@ -34,48 +34,31 @@ I value continuous learning, analytical thinking, and practical problem-solving.
 
 ---
 
-## Achievements
 
-<div align="center">
+## Achievements
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/2026-GOLDEN%20TOAD%20AWARD-C9A227?style=for-the-badge" alt="Golden Toad Award 2026" />
+<img src="https://img.shields.io/badge/2026-GOLDEN%20TOAD%20AWARD-C9A227?style=for-the-badge" alt="Golden Toad Award" />
 
-<br/><br/>
-
-<h3 align="center">Golden Toad Award</h3>
-<p align="center">
-  <strong>Engineering and Technology Division</strong>
-</p>
-
-Summer 2026 · FPT University
-
-Recognized for academic achievement in the Engineering and Technology division.
+<p><strong>Golden Toad Award</strong><br/>
+Engineering and Technology Division<br/>
+Summer 2026 · FPT University</p>
 
 </td>
-<td align="center" width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/2026-FIRST%20PRIZE-1D4ED8?style=for-the-badge" alt="First Prize 2026" />
+<img src="https://img.shields.io/badge/2026-FIRST%20PRIZE-1D4ED8?style=for-the-badge" alt="First Prize" />
 
-<br/><br/>
-
-<h3 align="center">First Prize — Southern Regional Round</h3>
-<p align="center">
-  <strong>National Youth Innovation Competition in Artificial Intelligence</strong>
-</p>
-
-2026 · Southern Regional Round
-
-Awarded First Prize for an AI innovation project.
+<p><strong>First Prize — Southern Regional Round</strong><br/>
+National Youth Innovation Competition in Artificial Intelligence<br/>
+2026</p>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ### Academic Excellence
 
